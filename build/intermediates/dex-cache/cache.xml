@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0-RC0_84c8d90bae262e32898c0a999b8d13a33b112d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_5a9c5ef33b3486a12964dce01c8dc33ae8da0a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/gson-2.8.1_e54c3a20d17445f2370953e316c87715b2a471a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.android/build-cache/8ea1ad7af7a2cc883309fba8809c167a41180951/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/classes_0eccd9d5a5aae93b7f8abcdc6789964dc1a12ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_509ff600e1ebdab1abfdc3eef255d473ffb04bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/okio-1.13.0_26f268a7e646489911f20204c7404dab0b39d904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0-RC0_d857c7c7b84275333c9c5fa196b531a280198e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/glide-4.0.0-RC0_ea5daa2c543072281c11becb8dce8c167355c0cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_c52ed9ac427a0b5ac7410fa259de97ffb1651518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prewsitthirat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="/Users/prewsitthirat/Project/KotlinTutorial/app/build/intermediates/pre-dexed/debug/annotations-4.0.0-RC0_fe360ba1d2ca81c697dde631ea3a2e6abd04240b.jar" />
+    </item>
+
+</items>
